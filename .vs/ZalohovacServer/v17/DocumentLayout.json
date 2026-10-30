@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitek\\OneDrive\\Plocha\\Prg 4\\ZalohovacServerUltraNew\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44EA32-0A9F-4245-B5B9-405504A34336}|ZalohovacServer.csproj|c:\\users\\vitek\\onedrive\\plocha\\prg 4\\zalohovacserverultranew\\controllers\\admincontrollerreal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44EA32-0A9F-4245-B5B9-405504A34336}|ZalohovacServer.csproj|solutionrelative:controllers\\admincontrollerreal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44EA32-0A9F-4245-B5B9-405504A34336}|ZalohovacServer.csproj|c:\\users\\vitek\\onedrive\\plocha\\prg 4\\zalohovacserverultranew\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44EA32-0A9F-4245-B5B9-405504A34336}|ZalohovacServer.csproj|solutionrelative:controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44EA32-0A9F-4245-B5B9-405504A34336}|ZalohovacServer.csproj|c:\\users\\vitek\\onedrive\\plocha\\prg 4\\zalohovacserverultranew\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44EA32-0A9F-4245-B5B9-405504A34336}|ZalohovacServer.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44EA32-0A9F-4245-B5B9-405504A34336}|ZalohovacServer.csproj|c:\\users\\vitek\\onedrive\\plocha\\prg 4\\zalohovacserverultranew\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44EA32-0A9F-4245-B5B9-405504A34336}|ZalohovacServer.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44EA32-0A9F-4245-B5B9-405504A34336}|ZalohovacServer.csproj|c:\\users\\vitek\\onedrive\\plocha\\prg 4\\zalohovacserverultranew\\configjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44EA32-0A9F-4245-B5B9-405504A34336}|ZalohovacServer.csproj|solutionrelative:configjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44EA32-0A9F-4245-B5B9-405504A34336}|ZalohovacServer.csproj|c:\\users\\vitek\\onedrive\\plocha\\prg 4\\zalohovacserverultranew\\controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44EA32-0A9F-4245-B5B9-405504A34336}|ZalohovacServer.csproj|solutionrelative:controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44EA32-0A9F-4245-B5B9-405504A34336}|ZalohovacServer.csproj|c:\\users\\vitek\\onedrive\\plocha\\prg 4\\zalohovacserverultranew\\controllers\\clientsconfigdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44EA32-0A9F-4245-B5B9-405504A34336}|ZalohovacServer.csproj|solutionrelative:controllers\\clientsconfigdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44EA32-0A9F-4245-B5B9-405504A34336}|ZalohovacServer.csproj|c:\\users\\vitek\\onedrive\\plocha\\prg 4\\zalohovacserverultranew\\controllers\\clientlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44EA32-0A9F-4245-B5B9-405504A34336}|ZalohovacServer.csproj|solutionrelative:controllers\\clientlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C44EA32-0A9F-4245-B5B9-405504A34336}|ZalohovacServer.csproj|c:\\users\\vitek\\onedrive\\plocha\\prg 4\\zalohovacserverultranew\\clientjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C44EA32-0A9F-4245-B5B9-405504A34336}|ZalohovacServer.csproj|solutionrelative:clientjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfigController.cs",
+              "DocumentMoniker": "C:\\Users\\vitek\\OneDrive\\Plocha\\Prg 4\\ZalohovacServerUltraNew\\Controllers\\ConfigController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConfigController.cs",
+              "ToolTip": "C:\\Users\\vitek\\OneDrive\\Plocha\\Prg 4\\ZalohovacServerUltraNew\\Controllers\\ConfigController.cs",
+              "RelativeToolTip": "Controllers\\ConfigController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:59:12.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientsConfigDataController.cs",
+              "DocumentMoniker": "C:\\Users\\vitek\\OneDrive\\Plocha\\Prg 4\\ZalohovacServerUltraNew\\Controllers\\ClientsConfigDataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientsConfigDataController.cs",
+              "ToolTip": "C:\\Users\\vitek\\OneDrive\\Plocha\\Prg 4\\ZalohovacServerUltraNew\\Controllers\\ClientsConfigDataController.cs",
+              "RelativeToolTip": "Controllers\\ClientsConfigDataController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:59:12.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminControllerReal.cs",
+              "DocumentMoniker": "C:\\Users\\vitek\\OneDrive\\Plocha\\Prg 4\\ZalohovacServerUltraNew\\Controllers\\AdminControllerReal.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminControllerReal.cs",
+              "ToolTip": "C:\\Users\\vitek\\OneDrive\\Plocha\\Prg 4\\ZalohovacServerUltraNew\\Controllers\\AdminControllerReal.cs",
+              "RelativeToolTip": "Controllers\\AdminControllerReal.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowEwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:59:12.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigJob.cs",
+              "DocumentMoniker": "C:\\Users\\vitek\\OneDrive\\Plocha\\Prg 4\\ZalohovacServerUltraNew\\ConfigJob.cs",
+              "RelativeDocumentMoniker": "ConfigJob.cs",
+              "ToolTip": "C:\\Users\\vitek\\OneDrive\\Plocha\\Prg 4\\ZalohovacServerUltraNew\\ConfigJob.cs",
+              "RelativeToolTip": "ConfigJob.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:14:05.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\vitek\\OneDrive\\Plocha\\Prg 4\\ZalohovacServerUltraNew\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\vitek\\OneDrive\\Plocha\\Prg 4\\ZalohovacServerUltraNew\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:02:19.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientJob.cs",
+              "DocumentMoniker": "C:\\Users\\vitek\\OneDrive\\Plocha\\Prg 4\\ZalohovacServerUltraNew\\ClientJob.cs",
+              "RelativeDocumentMoniker": "ClientJob.cs",
+              "ToolTip": "C:\\Users\\vitek\\OneDrive\\Plocha\\Prg 4\\ZalohovacServerUltraNew\\ClientJob.cs",
+              "RelativeToolTip": "ClientJob.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:42:41.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\vitek\\OneDrive\\Plocha\\Prg 4\\ZalohovacServerUltraNew\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\vitek\\OneDrive\\Plocha\\Prg 4\\ZalohovacServerUltraNew\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Controllers\\ClientController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:42:06.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\vitek\\OneDrive\\Plocha\\Prg 4\\ZalohovacServerUltraNew\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\vitek\\OneDrive\\Plocha\\Prg 4\\ZalohovacServerUltraNew\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Controllers\\ReportsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:59:12.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientLoginController.cs",
+              "DocumentMoniker": "C:\\Users\\vitek\\OneDrive\\Plocha\\Prg 4\\ZalohovacServerUltraNew\\Controllers\\ClientLoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientLoginController.cs",
+              "ToolTip": "C:\\Users\\vitek\\OneDrive\\Plocha\\Prg 4\\ZalohovacServerUltraNew\\Controllers\\ClientLoginController.cs",
+              "RelativeToolTip": "Controllers\\ClientLoginController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAADwv0YAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:10:22.864Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

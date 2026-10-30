@@ -1,0 +1,581 @@
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\appsettings.Development.json
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\appsettings.json
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\ZalohovacServer.exe
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\ZalohovacServer.deps.json
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\ZalohovacServer.runtimeconfig.json
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\ZalohovacServer.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\ZalohovacServer.pdb
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\Google.Protobuf.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\MySql.Data.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\System.IO.Pipelines.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\System.Text.Json.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\ZstdSharp.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\magirina\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.csproj.AssemblyReference.cache
+F:\magirina\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\magirina\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.AssemblyInfoInputs.cache
+F:\magirina\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.AssemblyInfo.cs
+F:\magirina\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.csproj.CoreCompileInputs.cache
+F:\magirina\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.MvcApplicationPartsAssemblyInfo.cs
+F:\magirina\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.MvcApplicationPartsAssemblyInfo.cache
+F:\magirina\ZalohovacServer\obj\Debug\net6.0\staticwebassets.build.json
+F:\magirina\ZalohovacServer\obj\Debug\net6.0\staticwebassets.development.json
+F:\magirina\ZalohovacServer\obj\Debug\net6.0\scopedcss\bundle\ZalohovacServer.styles.css
+F:\magirina\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.csproj.CopyComplete
+F:\magirina\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.dll
+F:\magirina\ZalohovacServer\obj\Debug\net6.0\refint\ZalohovacServer.dll
+F:\magirina\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.pdb
+F:\magirina\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.genruntimeconfig.cache
+F:\magirina\ZalohovacServer\obj\Debug\net6.0\ref\ZalohovacServer.dll
+F:\magirina\ZalohovacServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.csproj.AssemblyReference.cache
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.AssemblyInfoInputs.cache
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.AssemblyInfo.cs
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.csproj.CoreCompileInputs.cache
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\obj\Debug\net6.0\refint\ZalohovacServer.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.pdb
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\appsettings.json
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\ZalohovacServer.exe
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\ZalohovacServer.deps.json
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\ZalohovacServer.runtimeconfig.json
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\ZalohovacServer.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\ZalohovacServer.pdb
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\obj\Debug\net6.0\scopedcss\bundle\ZalohovacServer.styles.css
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.csproj.CopyComplete
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.genruntimeconfig.cache
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServer\obj\Debug\net6.0\ref\ZalohovacServer.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\appsettings.Development.json
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\appsettings.json
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\ZalohovacServer.exe
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\ZalohovacServer.deps.json
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\ZalohovacServer.runtimeconfig.json
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\ZalohovacServer.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\ZalohovacServer.pdb
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\Google.Protobuf.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\MySql.Data.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\System.Drawing.Common.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\System.IO.Pipelines.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\System.Security.Permissions.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\System.Text.Json.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\System.Windows.Extensions.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\ZstdSharp.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.csproj.AssemblyReference.cache
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.GeneratedMSBuildEditorConfig.editorconfig
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.AssemblyInfoInputs.cache
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.AssemblyInfo.cs
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.csproj.CoreCompileInputs.cache
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.MvcApplicationPartsAssemblyInfo.cs
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.MvcApplicationPartsAssemblyInfo.cache
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\obj\Debug\net6.0\staticwebassets.build.json
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\obj\Debug\net6.0\staticwebassets.development.json
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\obj\Debug\net6.0\scopedcss\bundle\ZalohovacServer.styles.css
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.csproj.CopyComplete
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\obj\Debug\net6.0\refint\ZalohovacServer.dll
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.pdb
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\obj\Debug\net6.0\ZalohovacServer.genruntimeconfig.cache
+\\kacenka\StudentiPrenosne\WoloszczukVit\ZalohovacServer\obj\Debug\net6.0\ref\ZalohovacServer.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\appsettings.json
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\ZalohovacServer.exe
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\ZalohovacServer.deps.json
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\ZalohovacServer.runtimeconfig.json
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\ZalohovacServer.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\ZalohovacServer.pdb
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.csproj.AssemblyReference.cache
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.AssemblyInfoInputs.cache
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.AssemblyInfo.cs
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.csproj.CoreCompileInputs.cache
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\obj\Debug\net6.0\scopedcss\bundle\ZalohovacServer.styles.css
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.csproj.CopyComplete
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\obj\Debug\net6.0\refint\ZalohovacServer.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.pdb
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.genruntimeconfig.cache
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\obj\Debug\net6.0\ref\ZalohovacServer.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\JWT.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Scrutor.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\vitek\OneDrive\Plocha\ZalohovacServerNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\appsettings.Development.json
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\appsettings.json
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\ZalohovacServer.exe
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\ZalohovacServer.deps.json
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\ZalohovacServer.runtimeconfig.json
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\ZalohovacServer.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\ZalohovacServer.pdb
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\BCrypt.Net-Next.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Google.Protobuf.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\JWT.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.OpenApi.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\MySql.Data.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Newtonsoft.Json.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Scrutor.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\System.Drawing.Common.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\System.IO.Pipelines.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\System.Security.Permissions.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\System.Text.Json.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\System.Windows.Extensions.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\ZstdSharp.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+B:\Skola\Programko\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+B:\Skola\Programko\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.csproj.AssemblyReference.cache
+B:\Skola\Programko\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.GeneratedMSBuildEditorConfig.editorconfig
+B:\Skola\Programko\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.AssemblyInfoInputs.cache
+B:\Skola\Programko\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.AssemblyInfo.cs
+B:\Skola\Programko\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.csproj.CoreCompileInputs.cache
+B:\Skola\Programko\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.MvcApplicationPartsAssemblyInfo.cs
+B:\Skola\Programko\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.MvcApplicationPartsAssemblyInfo.cache
+B:\Skola\Programko\ZalohovacServerNew\obj\Debug\net6.0\staticwebassets.build.json
+B:\Skola\Programko\ZalohovacServerNew\obj\Debug\net6.0\staticwebassets.development.json
+B:\Skola\Programko\ZalohovacServerNew\obj\Debug\net6.0\scopedcss\bundle\ZalohovacServer.styles.css
+B:\Skola\Programko\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.csproj.CopyComplete
+B:\Skola\Programko\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.dll
+B:\Skola\Programko\ZalohovacServerNew\obj\Debug\net6.0\refint\ZalohovacServer.dll
+B:\Skola\Programko\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.pdb
+B:\Skola\Programko\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.genruntimeconfig.cache
+B:\Skola\Programko\ZalohovacServerNew\obj\Debug\net6.0\ref\ZalohovacServer.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\appsettings.json
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\ZalohovacServer.exe
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\ZalohovacServer.deps.json
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\ZalohovacServer.runtimeconfig.json
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\ZalohovacServer.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\ZalohovacServer.pdb
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\JWT.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Scrutor.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.csproj.AssemblyReference.cache
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.AssemblyInfoInputs.cache
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.AssemblyInfo.cs
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.csproj.CoreCompileInputs.cache
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\obj\Debug\net6.0\staticwebassets\msbuild.ZalohovacServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\obj\Debug\net6.0\staticwebassets\msbuild.build.ZalohovacServer.props
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ZalohovacServer.props
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ZalohovacServer.props
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\obj\Debug\net6.0\scopedcss\bundle\ZalohovacServer.styles.css
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\obj\Debug\net6.0\Zalohova.F0EA5E04.Up2Date
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\obj\Debug\net6.0\refint\ZalohovacServer.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.pdb
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\obj\Debug\net6.0\ZalohovacServer.genruntimeconfig.cache
+C:\Users\woloszczukvit\Desktop\ZalohovacServerNew\obj\Debug\net6.0\ref\ZalohovacServer.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\appsettings.json
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\ZalohovacServer.exe
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\ZalohovacServer.deps.json
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\ZalohovacServer.runtimeconfig.json
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\ZalohovacServer.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\ZalohovacServer.pdb
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\JWT.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Scrutor.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\obj\Debug\net6.0\ZalohovacServer.csproj.AssemblyReference.cache
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\obj\Debug\net6.0\ZalohovacServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\obj\Debug\net6.0\ZalohovacServer.AssemblyInfoInputs.cache
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\obj\Debug\net6.0\ZalohovacServer.AssemblyInfo.cs
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\obj\Debug\net6.0\ZalohovacServer.csproj.CoreCompileInputs.cache
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\obj\Debug\net6.0\ZalohovacServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\obj\Debug\net6.0\ZalohovacServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\obj\Debug\net6.0\staticwebassets\msbuild.ZalohovacServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\obj\Debug\net6.0\staticwebassets\msbuild.build.ZalohovacServer.props
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ZalohovacServer.props
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ZalohovacServer.props
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\obj\Debug\net6.0\scopedcss\bundle\ZalohovacServer.styles.css
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\obj\Debug\net6.0\Zalohova.F0EA5E04.Up2Date
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\obj\Debug\net6.0\ZalohovacServer.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\obj\Debug\net6.0\refint\ZalohovacServer.dll
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\obj\Debug\net6.0\ZalohovacServer.pdb
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\obj\Debug\net6.0\ZalohovacServer.genruntimeconfig.cache
+C:\Users\woloszczukvit\Desktop\ZalohovacServerUltraNew\obj\Debug\net6.0\ref\ZalohovacServer.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\appsettings.json
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\ZalohovacServer.exe
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\ZalohovacServer.deps.json
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\ZalohovacServer.runtimeconfig.json
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\ZalohovacServer.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\ZalohovacServer.pdb
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\JWT.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Scrutor.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\obj\Debug\net6.0\ZalohovacServer.csproj.AssemblyReference.cache
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\obj\Debug\net6.0\ZalohovacServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\obj\Debug\net6.0\ZalohovacServer.AssemblyInfoInputs.cache
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\obj\Debug\net6.0\ZalohovacServer.AssemblyInfo.cs
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\obj\Debug\net6.0\ZalohovacServer.csproj.CoreCompileInputs.cache
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\obj\Debug\net6.0\ZalohovacServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\obj\Debug\net6.0\ZalohovacServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\obj\Debug\net6.0\staticwebassets\msbuild.ZalohovacServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\obj\Debug\net6.0\staticwebassets\msbuild.build.ZalohovacServer.props
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ZalohovacServer.props
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ZalohovacServer.props
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\obj\Debug\net6.0\scopedcss\bundle\ZalohovacServer.styles.css
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\obj\Debug\net6.0\Zalohova.F0EA5E04.Up2Date
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\obj\Debug\net6.0\ZalohovacServer.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\obj\Debug\net6.0\refint\ZalohovacServer.dll
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\obj\Debug\net6.0\ZalohovacServer.pdb
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\obj\Debug\net6.0\ZalohovacServer.genruntimeconfig.cache
+C:\Users\vitek\OneDrive\Plocha\Prg 4\ZalohovacServerUltraNew\obj\Debug\net6.0\ref\ZalohovacServer.dll
